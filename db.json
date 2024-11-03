@@ -1,0 +1,26 @@
+{
+    "organization": [
+        {
+            "key": "1",
+            "id": "1",
+            "name": "Najot Ta'lim",
+            "inn": "123456789",
+            "director": "Ali Zairov",
+            "adress": "Toshkent, Chilonzor 9kv",
+            "createdAt": "2018-15-05",
+            "status":"true"
+        },
+        {
+            "key": "2",
+            "id": "2",
+            "name": "Cambridge",
+            "inn": "234325675",
+            "director": "Jahongir Po'latov",
+            "adress": "Toshkent, Yunusobod 8kv",
+            "createdAt": "2014-24-02",
+            "status":"true"
+        }
+    ],
+    "students": [],
+    "administration": []
+}

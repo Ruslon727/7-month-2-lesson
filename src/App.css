@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --bg-clr:rgb(139, 119, 0)
+}
+
+.ant-btn {
+    background-color: var(--bg-clr) !important;
+}
+
+.ant-scroll-number {
+    background-color: var(--bg-clr) !important;
+}
+
+.ant-menu-item-selected{
+    background-color: var(--bg-clr) !important;
+}
+.ant-spin-dot-holder{
+    color: var(--bg-clr) !important;
+}
